@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Messi Copa America",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque quia ut, omnis eligendi corrupti delectus et quod! Debitis magni, perferendis magnam molestiae natus ipsa nisi eius. Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque quia ut.",
+    "code": 1112,
+    "url": "https://res.cloudinary.com/francocastany/image/upload/v1671313874/REKITS/messi_copa_america_owwqbx.jpg",
+    "price": 300,
+    "stock": 250
+  },
+  {
+    "id": 3,
+    "name": "D 1 0 S",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque quia ut, omnis eligendi corrupti delectus et quod! Debitis magni, perferendis magnam molestiae natus ipsa nisi eius. Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque quia ut.",
+    "code": 1113,
+    "url": "https://res.cloudinary.com/francocastany/image/upload/v1671316684/REKITS/d10s_h1uvmi.jpg",
+    "price": 250,
+    "stock": 150
+  }
+]
